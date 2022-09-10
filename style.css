@@ -1,5 +1,5 @@
 .fa-brands {
-  color: #6290C3;
+  color: #0F8B8D;
   font-size: 24px;
 }
 
@@ -18,22 +18,22 @@ body {
 h1, h2 {
   font-family:'Roboto+Mono', sans-serif;
   font-weight: 500;
-  color: #031D44;
+  color: #143642;
 }
 
 h2 {
-  color:#9CB380;
+  color:#EC9A29;
 }
 
 a {
-  color: #6290C3;
+  color: #0F8B8D;
   text-decoration: none;
   font-family:'Roboto+Mono', sans-serif;
   font-weight: 600;
 }
 
 a:hover, .fa-brands:hover {
-  color:#031D44;
+  color:#143642;
 }
 
 .card-white {
